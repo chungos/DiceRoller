@@ -1,6 +1,7 @@
 # DiceRoller android application
 
+> Android dice rolling application written in kotlin. 
+
 ![dice roller application](./diceroller.png)
 
-- Basic dice rolling application written in kotlin. 
-- Learning from udacity android course. 
+- Exercise from udacity google android course 
